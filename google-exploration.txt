@@ -9,3 +9,5 @@ Perbandingan dengan Ms. Excel : Tidak bisa dirubah oleh beberapa orang dalam sat
 - ✔️ Kelebihan : Sangat praktis, dapat dirubah oleh beberapa orang
 - ❌ Kekurangan : Tidak bisa melihat history perubahan yang telah dirubah sebelumnya agar menjadi koreksi untuk file revisinya
 - ✖️ Platform yang setara : Ms. Excel, ZohoDocs
+
+Link my mini project from Google Developer Products : https://github.com/faustinaleo18/mini-project-from-google-products
