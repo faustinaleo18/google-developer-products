@@ -19,7 +19,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Google Sheets</td>
+        <td>Sheets</td>
         <td>Mirip dengan penggunaan Microsoft Excel yaitu memasukkan data, membuat tabel, grafik, dan juga mengelola data. Biasanya digunakan untuk laporan keuangan</td>
         <td>Sangat praktis, dapat dirubah oleh beberapa orang dalam satu waktu, dapat digunakan secara gratis jika dibandingkan dengan Ms. Excel yang berbayar, bisa meng-import data dari Ms. Excel, bisa membuat form dari fiturnya Google Sheets</td>
         <td>Tidak bisa melihat history perubahan yang telah dirubah sebelumnya agar menjadi koreksi untuk file revisinya, memerlukan koneksi internet untuk mengaksesnya, kurangnya fitur-fitur yang dimiliki oleh Google Sheets jika dibandingkan oleh Ms. Excel</td>
@@ -41,6 +41,13 @@
         <td>Memerlukan koneksi internet untuk mengaksesnya, memiliki batasan ukuran dokumen agar bisa kekirim yakni hanya mencapai 25 MB, munculnya iklan</td>
         <td>Yahoo Mail, Microsoft Outlook, Zoho Mail, ProtonMail, AOL Mail</td>
         <td>Pesan yang sudah terkirim bisa berupa dokumen, gambar, gif, dan sebagainya</td>
+      </tr>
+        <td>YouTube</td>
+        <td>Membuka video, menonton video</td>
+        <td>Gratis, bisa melacak konten yang suka ditonton selama menonton youtube, bisa memindahkan video dari youtube yang telah dibuka oleh HP atau alat elektonik lainnya dipindah ke TV</td>
+        <td>Memerlukan koneksi internet untuk mengaksesnya, munculnya iklan</td>
+        <td>Metacafe, Veoh, Yahoo!Screen</td>
+        <td>Video yang sudah direkam akan di-share ke publik melalui YouTube</td>
       </tr>
     </tbody>
     </table>
